@@ -9,7 +9,6 @@ Pagania is a **one-person project**. This is local CZ language version using **p
 ## Tech Stack
 
 - **HTML5** (Semantic structure)
-- **Pico CSS** (Lightweight CSS framework)
 - **Custom CSS** (Layout and visual identity)
 - **JavaScript** (Lightweight interface functionality)
 - **Markdown** (Modular content)
@@ -35,8 +34,7 @@ Pagania is a **one-person project**. This is local CZ language version using **p
 │
 ├── static/
 │   ├── css/
-│   │   ├── custom.css
-│   │   └── pico.min.css
+│   │   └── style.css
 │   ├── js/
 │   │   ├── main.js
 │   │   └── marked.min.js
